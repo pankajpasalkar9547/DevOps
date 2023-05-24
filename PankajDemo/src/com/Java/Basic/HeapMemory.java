@@ -8,7 +8,9 @@ public class HeapMemory {
 		System.out.println(r.maxMemory());
 		System.out.println(r.totalMemory());
 		System.out.println(r.maxMemory());
-		System.out.println("Added New Line");
+		System.out.println("Added New Line  ");
+		System.out.println(":");
+		System.out.println("New");
 
 	}
 

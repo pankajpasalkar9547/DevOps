@@ -15,6 +15,7 @@ public class multiplicationTable {
 		{
 			mul = a*i;
 			System.out.println(a+" * "+i+" = "+mul);
+			System.out.println("\n");
 		}
 
 	}
